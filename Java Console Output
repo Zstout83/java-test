@@ -1,0 +1,11 @@
+public class PrintInDemo
+{
+  public static void main(String[] args)
+  {
+    System.out.printIn("This is a string of output");
+    System.out.printIn("A blank line follows this line");
+    System.out.printIn("");
+    System.out.printIn(762);
+    System.out.printIn("This is one number " + 45 + "and another number" + 98);
+   }
+ }
